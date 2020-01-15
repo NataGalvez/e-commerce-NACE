@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bicicleta Electríca",
+    "brand": "Montbike",
+    "category": "bicicletas",
+    "price": 20000,
+    "img": "",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  },
+  {
+    "name": "Bicicleta Manual",
+    "brand": "jilla",
+    "category": "bicicletas",
+    "price": 15000,
+    "img": "",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  },
+  {
+    "name": "Bicicleta Electríca",
+    "brand": "Montbike",
+    "category": "bicicletas",
+    "price": 20000,
+    "img": "",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  },
+  {
+    "name": "Bicicleta a carbón",
+    "brand": "Montbike",
+    "category": "bicicletas",
+    "price": 30000,
+    "img": "",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  },
+  {
+    "name": "Bicicleta Electríca",
+    "brand": "Montbike",
+    "category": "bicicletas",
+    "price": 20000,
+    "img": "",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  }
+]
