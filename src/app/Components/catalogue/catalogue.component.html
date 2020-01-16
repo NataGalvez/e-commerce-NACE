@@ -1,5 +1,8 @@
 <div>
   <div *ngFor="let products of listProducts">
-    {{ products.name }}
+    <img src="{{ products.img }}" alt="" />
+    <div>{{ products.name }}</div>
+    <div>{{ products.brand }}</div>
+    <div>{{ products.category }}</div>
   </div>
 </div>
