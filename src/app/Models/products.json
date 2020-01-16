@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bicicleta Electríca",
+    "brand": "Montbike",
+    "category": "bicicletas",
+    "price": 20000,
+    "img": "https://www.milanotmc.cl/wp-content/uploads/2019/06/medium-negra-324x324.jpg",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  },
+  {
+    "name": "Bicicleta Manual",
+    "brand": "jilla",
+    "category": "bicicletas",
+    "price": 15000,
+    "img": "https://falabella.scene7.com/is/image/Falabella/7276170?wid=249&hei=249&qlt=70",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  },
+  {
+    "name": "Bicicleta Electríca",
+    "brand": "Montbike",
+    "category": "bicicletas",
+    "price": 20000,
+    "img": "https://falabella.scene7.com/is/image/Falabella/6759443?wid=249&hei=249&qlt=70",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  },
+  {
+    "name": "Bicicleta a carbón",
+    "brand": "Montbike",
+    "category": "bicicletas",
+    "price": 30000,
+    "img": "https://dpf77bhxauhdh.cloudfront.net/media/catalog/product/cache/1/small_image/295x295/9df78eab33525d08d6e5fb8d27136e95/b/i/bicicleta_electrica_lhotse_e-bikes_plateado.jpg",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  },
+  {
+    "name": "Bicicleta Electríca",
+    "brand": "Montbike",
+    "category": "bicicletas",
+    "price": 20000,
+    "img": "https://media2.sparta.cl/media/catalog/product/cache/c5b0e6136a6dd7f7d91d8b889ed40f35/a/l/altitude.jpg",
+    "description": "Bicicleta traida desde japon, tiene alas y podrás llegar más rápido"
+  }
+]
